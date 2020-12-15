@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-15T17:02:31.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="SQxr8li8q6C5UrarqLqa" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-15T17:03:18.423Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="RDAfRZbIJ2x1wjHRSXoD" version="14.0.1" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1746" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -30,11 +30,12 @@
         <mxCell id="7aNfvuDgiZK2vMjcJ0YT-7" value="NetworkHandler.cs&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify&quot;&gt;ReadServerMessage()&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;1)&amp;nbsp;CMD_GET_CUR_FRAME_OK&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;2) transform data&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;3) call PlayerSetter.UpdatePlayerTransforms(Rot,Pos,FingerRot)&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="630" y="503" width="360" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="7aNfvuDgiZK2vMjcJ0YT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="7aNfvuDgiZK2vMjcJ0YT-19">
+        <mxCell id="7aNfvuDgiZK2vMjcJ0YT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.467;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7aNfvuDgiZK2vMjcJ0YT-10" target="7aNfvuDgiZK2vMjcJ0YT-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1177" y="680.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1177" y="774.5" />
+              <mxPoint x="1177" y="630" />
+              <mxPoint x="1177" y="775" />
             </Array>
           </mxGeometry>
         </mxCell>
